@@ -1,1 +1,1 @@
-Dynamic Fusion of Mueller Matrix Images for Medical Image Segmentation with Ring-shaped Active Contour Model. The related polarization image dataset is available at: https://pan.baidu.com/s/1WkLedbEDbAEIWYwrA-6vuw.
+Dynamic Fusion of Mueller Matrix Images for Medical Image Segmentation with Ring-shaped Active Contour Model. The related polarization image dataset is available at: https://pan.baidu.com/s/1wp0sFbdYZA2y8wxYikSVKA.
